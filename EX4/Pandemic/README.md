@@ -112,7 +112,7 @@
 
 <div dir='ltr'>
 
-   make demo1 && ./demo1 && make demo2 && ./demo2 && make test && ./test
+   	make demo1 && ./demo1 && make demo2 && ./demo2 && make test && ./test
 
 </div>
 
