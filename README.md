@@ -1,3 +1,3 @@
 # cpp
 
-These tasks are given by the cpp course
+These assignments are given by the cpp course
